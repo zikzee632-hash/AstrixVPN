@@ -32,11 +32,17 @@ If you'd rather download from our own server directly:
 
 ## Screenshots
 
+<details>
+<summary>Tap to view screenshots</summary>
+<br>
+
 <p align="center">
-  <img src="screenshots/login.png" width="260" alt="Sign in screen" />
-  &nbsp;&nbsp;
-  <img src="screenshots/home-connected.jpg" width="260" alt="Connected to a server" />
+  <img src="screenshots/login.png" width="240" alt="Sign in screen" />
+  <img src="screenshots/home-connected.jpg" width="240" alt="Connected to a server" />
+  <img src="screenshots/servers.jpg" width="240" alt="Server list" />
 </p>
+
+</details>
 
 ## What's inside
 
